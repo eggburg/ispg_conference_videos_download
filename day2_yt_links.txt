@@ -1,0 +1,187 @@
+====================
+3:30 AM - 7:00 PM
+Virtual Coffee Break
+====================
+5:00 AM - 3:00 PM
+Speaker Ready Room & Help Desk
+====================
+5:30 AM - 5:45 AM
+Virtual Round Table with Education Day Speaker, Chiara Fabbri
+====================
+5:30 AM - 5:45 AM
+Virtual Round Table with WCPG Program Chair and Education Day Speaker, Mirko Manchia
+====================
+5:30 AM - 5:45 AM
+Virtual Round Table with WCPG Program Chair and Education Day Speaker, Alessio Squassina and Education Day Speaker, Claudia Pisanu
+====================
+5:30 AM - 5:45 AM
+Virtual Round Table with Education Day Speaker, Ron van Schaik, PhD, FACB
+====================
+6:00 AM - 7:15 AM
+Welcome Address and Opening Plenary: Modeling Neurodevelopmental Disorders With Human Cerebral Organoids - Dr. Silvia Cappello*
+https://youtu.be/xnKtq-Umy0Q
+====================
+6:00 AM - 7:15 AM
+Modeling Neurodevelopmental Disorders With Human Cerebral Organoids
+====================
+7:15 AM - 7:30 AM
+Virtual Round Table with Sergiu Pasca on the topic of Human Brain Organoids
+====================
+7:15 AM - 7:30 AM
+Virtual Round Table with Plenary Speaker, Silvia Cappello
+====================
+7:30 AM - 9:00 AM
+Concurrent Symposia Sessions*
+====================
+7:30 AM - 9:00 AM
+A New Phase for Genomic Study of Depression: Exploring Heterogeneity in Large-Scale Datasets*
+====================
+7:30 AM - 9:00 AM
+Insights Into Epigenetic Mechanisms of Psychiatric Disorders and Translational Approaches
+====================
+7:30 AM - 9:00 AM
+Into the Wild: The Real-Life Impact of Psychiatric Genetics
+====================
+7:30 AM - 9:00 AM
+Insights Into the Genetics of Bipolar Disorder and its Treatment
+====================
+9:00 AM - 10:00 AM
+Virtual Poster Session I (First Hour)
+====================
+10:00 AM - 11:00 AM
+Plenary: Genetics of Neurodevelopmental Disease - Dr. Matt Hurles*
+https://youtu.be/DqN1gSW9dhw
+====================
+10:00 AM - 11:00 AM
+Genetics of Neurodevelopmental Disease
+====================
+11:00 AM - 11:15 AM
+Virtual Round Table with Plenary Speaker, Matt Hurles
+====================
+11:00 AM - 11:15 AM
+Virtual Round Table with Barbara Franke on the topic of Genetic Architecture of Neurodevelopmental Disorders
+====================
+11:00 AM - 11:15 AM
+Virtual Round Table with Lifetime Achievement Award Winner, Michael O'Donovan
+====================
+11:15 AM - 12:45 PM
+Oral Session: Animal & Cell Models & Technology*
+https://youtu.be/ltOT_iWPpOE
+====================
+11:15 AM - 11:30 AM
+Neural Cell Heterogeneity in Purified Populations of Neurons and Oligodendrocytes: Implications for Post-Mortem Genomic Studies
+====================
+11:30 AM - 11:45 AM
+Leveraging Host Genetic Variation to Investigate the Gut-Brain Axis in Heterogeneous Stock Rats
+====================
+11:45 AM - 12:00 PM
+Seizure Susceptibility in a Mouse Model of CHD8 Haploinsufficiency
+====================
+12:00 PM - 12:15 PM
+Systems Genetic Analysis of Binge-Like Eating in a C57BL/6J X DBA/2J-F2 Cross in Mice Identifies Adipor2 and Plxnd1 as Positional and Functional Candidate Genes
+====================
+12:15 PM - 12:30 PM
+Single-Cell Isoform Identification and Cell-Type-Specific Usage in the Developing Human Brain
+====================
+12:30 PM - 12:45 PM
+Resolving the Exact Sequence Rearrangements of Large Neuropsychiatric Copy Number Variations at Single Base-Pair Resolution Using CRISPR-Catch Long-Read Sequencing (CCLR-Seq)
+====================
+11:15 AM - 12:45 PM
+Oral Session: Schizophrenia A*
+https://youtu.be/oBGIqMG28fk
+====================
+11:15 AM - 11:30 AM
+SNP Fine-Mapping and Gene Prioritisation in the PGC3-Schizophrenia Study
+====================
+11:30 AM - 11:45 AM
+Using Common Genetic Variation to Examine Phenotypic Expression and Risk Prediction in 22q11.2 Deletion Syndrome
+====================
+11:45 AM - 12:00 PM
+Determining Cell-Specificity of Schizophrenia Associated Dna Methylation Variation
+====================
+12:00 PM - 12:15 PM
+Somatic Copy Number Variation in Schizophrenia
+====================
+12:15 PM - 12:30 PM
+NERD - A New Regulatory Layer to Capture Disease Perturbations for Genome Organization in Human Frontal Cortex
+====================
+12:30 PM - 12:45 PM
+Schizophrenia Risk From Locus-Specific Human Endogenous Retroviruses
+====================
+11:15 AM - 12:45 PM
+Oral Session: Substance Abuse*
+https://youtu.be/Uc48IHY07rk
+====================
+11:15 AM - 11:30 AM
+Genomic Analysis of 1.5 Million People Uncovers Genes Related to Addiction, Antisocial Behavior, and Health: Insights From The Externalizing Consortium
+====================
+11:30 AM - 11:45 AM
+A Common Genetic Architecture Characterizes Addiction Disorders: Analysis Across Multiple Ancestral Populations
+====================
+11:45 AM - 12:00 PM
+Analysis of Epigenetic Profiles in Postmortem Brain Samples From Individuals With Alcohol Use Disorder
+====================
+12:00 PM - 12:15 PM
+Genetic Liability for Substance Use Associated With Medical Comorbidities in Electronic Health Records of African- and European-Ancestry Individuals
+====================
+12:15 PM - 12:30 PM
+CRISPR and UK Biobank Analysis of an Enhancer That Modulates Fat and Alcohol Intake and Mood Suggests a Role in Male Alcohol Abuse and Anxiety
+====================
+12:30 PM - 12:45 PM
+Dissecting Epigenomic Differences Between Smoking and Nicotine Dependence in U.S. Military Veterans
+====================
+11:15 AM - 12:45 PM
+Oral Session: Functional Genomics*
+https://youtu.be/LjjSBhZFck8
+====================
+11:15 AM - 11:30 AM
+Cell Type Specific Genetic Mapping of Gene Expression and Alternative Splicing During Human Neocortical Differentiation
+====================
+11:30 AM - 11:45 AM
+Identification of Functional Genetic Variants Mediating the Stress Response
+====================
+11:45 AM - 12:00 PM
+Cell Type Specific Rna Editing and Implications in Large Psychiatric Cohorts
+====================
+12:00 PM - 12:15 PM
+Transcript Isoform Usage Differences Across Brain Tissues Relevant for Psychiatric Disorders
+====================
+12:15 PM - 12:30 PM
+Genetic Regulation of Gene Expression in the Brain Throughout Adulthood and Aging
+====================
+12:30 PM - 12:45 PM
+Genetic Regulation of Gene Co-Expression in the Dorsolateral Prefrontal Cortex
+====================
+12:45 PM - 1:00 PM
+Break
+====================
+1:00 PM - 2:45 PM
+IDEA Committee Plenary and Panel Discussion*
+https://youtu.be/v4q5VyECi_4
+====================
+1:00 PM - 2:15 PM
+IDEA Committee Plenary
+====================
+2:45 PM - 3:00 PM
+Virtual Round Table with the Global Diversity Committee Chair, Chunyu Liu
+====================
+2:45 PM - 3:00 PM
+Virtual Round Table with the Incoming ISPG Secretary and Board Member, Naomi Wray on the topic of PRS
+====================
+3:00 PM - 4:30 PM
+Concurrent Symposia Sessions*
+====================
+3:00 PM - 4:30 PM
+Moving the Investigation of the Psychopathology Spectrum From Genetics to Multi-Omics
+====================
+3:00 PM - 4:30 PM
+What Does the Message that Black Lives Matter Mean for Genetics Researchers? – a Panel Discussion
+====================
+3:00 PM - 4:30 PM
+Resilience Across Ontogeny and Phylogeny
+====================
+4:30 PM - 5:30 PM
+Virtual Poster Session I (Second Hour)
+====================
+5:30 PM - 6:30 PM
+Early Career Investigator Lounge: Expand Your Network and Get Career Advice from ISPG Board Members Hailiang Huang, Sarah Medland, and Jehannine Austin!

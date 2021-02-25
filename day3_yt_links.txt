@@ -1,0 +1,249 @@
+====================
+3:30 AM - 7:00 PM
+Virtual Coffee Break
+====================
+3:45 AM - 4:45 AM
+Illumina Sponsored Session: Polygenic Risk Scores, What is Needed for Future Clinical Use?
+https://youtu.be/OsokK382mM4
+====================
+4:00 AM - 6:30 PM
+Speaker Ready Room & Help Desk
+====================
+4:45 AM - 5:00 AM
+Virtual Round Table with Niamh Mullins and Annabel Vreeker
+====================
+4:45 AM - 5:00 AM
+Virtual Round Table with Andrew McIntosh on the topic of Depression/GWAS
+====================
+5:00 AM - 6:15 AM
+Welcome and Plenary:Polygenic Risk Score and Diseases - David Hunter*
+https://youtu.be/gaxnYnEH3aw
+====================
+5:00 AM - 6:15 AM
+Polygenic Risk Score and Diseases
+====================
+6:15 AM - 6:30 AM
+Virtual Round Table with Plenary Speaker, David Hunter
+====================
+6:15 AM - 6:30 AM
+Virtual Round Table with Gerome Breen on the topic of PRS
+====================
+6:30 AM - 7:30 AM
+Oral Session: Endophenotypes*
+https://youtu.be/KwPhywnJawA
+====================
+6:30 AM - 6:45 AM
+Phenotypic and Genetic Associations between Childhood sleep, Mental health, and Brain Structure
+====================
+6:45 AM - 7:00 AM
+Large Scale Genome-Wide Association Study Reveals First Insights Into the Genetic Architecture of Creativity
+====================
+7:00 AM - 7:15 AM
+Large-Scale Exome Sequencing Identifies Novel Genes for Cognitive Function
+====================
+7:15 AM - 7:30 AM
+Unraveling the Genetic Architecture of Suicide Attempt and Psychiatric Disorders
+====================
+6:30 AM - 8:00 AM
+Oral Session: Bipolar/Affective Disorder/Depression*
+https://youtu.be/FRHUNjzsQqU
+====================
+6:30 AM - 6:45 AM
+Depression and Depression Treatment Accentuate an Individual’s Genetic Risk of Obesity
+====================
+6:45 AM - 7:00 AM
+Analysis of 50,000 Exome-Sequenced UK Biobank Subjects Fails to Identify Genes Influencing Probability of Psychiatric Referral
+====================
+7:00 AM - 7:15 AM
+Investigation of Potential Druggable Genes Shared Between Bipolar Disorder and Risk-Taking Propensity
+====================
+7:15 AM - 7:30 AM
+Polygenic Risk Score Prediction of Treatment Response to Mood Stabilizers and Antidepressants for Bipolar Disorder
+====================
+7:30 AM - 7:45 AM
+Assessment of Attempted and Completed Suicide in Bipolar Affective Disorder: A Combined Clinical and Genetic Approach
+====================
+7:45 AM - 8:00 AM
+Disentangling the Roles of Inflammation and Metabolic Dysregulation for Specific Depressive Symptoms: A Genetic Correlation and Two-Sample Mendelian Randomisation Study
+====================
+6:30 AM - 8:15 AM
+Oral Session: Biostatistics/Bioinformatics A*
+https://youtu.be/8s1R6xrOUAk
+====================
+6:30 AM - 6:45 AM
+Leveraging Individual-Level Genetic Data and GWAS Summary Statistics Increases Polygenic Prediction of Psychiatric Disorders and Other Complex Diseases
+====================
+6:45 AM - 7:00 AM
+LAVA: An Integrated Framework for Local Genetic Correlation Analysis
+====================
+7:00 AM - 7:15 AM
+Independent Sources of Genomic Effects on Brain Structure and Function: A Multivariate Pathway Enrichment Approach
+====================
+7:15 AM - 7:30 AM
+Bayesian Method for Calculating Polygenic Risk Scores in Diverse Populations
+====================
+7:30 AM - 7:45 AM
+A Computational Pipeline to Identify Single-Cell-Driven Drug Repurposing Candidates
+====================
+7:45 AM - 8:00 AM
+Evaluation of Polygenic Prediction Methodology Within a Reference-Standardized Framework
+====================
+8:00 AM - 8:15 AM
+Identifying Loci With Different Allele Frequencies Among Cases of Eight Psychiatric Disorders Using Cc-GWAS
+====================
+6:30 AM - 8:15 AM
+Oral Session: Autism Spectrum Disorder*
+https://youtu.be/32v9tzbF-d0
+====================
+6:30 AM - 6:45 AM
+Restricted Diet Drives Autism-Gut Microbiota associations, Which are Weak Compared to Age, Dietary and Stool Traits
+====================
+6:45 AM - 7:00 AM
+Polygenic Scores for Intelligence, Educational Attainment and Schizophrenia are Differentially Associated with Core Autism features, IQ, and Adaptive Behaviour in Autistic Individuals
+====================
+7:00 AM - 7:15 AM
+The Burden of Rare Protein Truncating Variants in Autism and its Diagnostic Subtypes
+====================
+7:15 AM - 7:30 AM
+A Massively Parallel Reporter Assay to Investigate the Contribution of Noncoding Variation in Autism Spectrum Disorder
+====================
+7:30 AM - 7:45 AM
+The Contribution of De Novo Tandem Repeat Mutations to Autism Spectrum Disorders
+====================
+7:45 AM - 8:00 AM
+Complex Contributions of De Novo Mutation, Rare-Inherited Variants and Polygenic Risk to Autism Spectrum Disorder
+====================
+8:00 AM - 8:15 AM
+The Return of Neurodevelopmental CNV results to National Centre for Mental Health Research Participants – Ethical Issues and Protocol Development
+====================
+8:30 AM - 9:00 AM
+Early Career Investigator Lounge:  Engage with the Global Diversity Committee Chair, Chunyu Liu, and Sian Hemmings to Discuss Collaboration and Data Sharing Throughout the World!
+====================
+9:00 AM - 10:00 AM
+Virtual Poster Session II  (First Hour)
+====================
+10:00 AM - 11:00 AM
+Plenary: Artificial Intelligence and Applications in Psychiatry - Dr. Andreas Meyer-Lindenberg*
+https://youtu.be/6nPisyh_I0I
+====================
+10:00 AM - 11:00 AM
+Artificial Intelligence and Applications in Psychiatry
+====================
+11:00 AM - 11:15 AM
+Virtual Round Table with Plenary Speaker, Andreas Meyer-Lindenberg
+====================
+11:15 AM - 12:45 PM
+Concurrent Symposia Sessions*
+====================
+11:15 AM - 12:45 PM
+Genomics of Severe Depression and Electroconvulsive Therapies
+====================
+11:15 AM - 12:45 PM
+PsychENCODE Updates: Discovery of Functional Elements for Psychiatric GWAS Signals
+====================
+11:15 AM - 12:45 PM
+Understanding the Biology of Posttraumatic Stress Disorder: Genome-Wide Association Studies, Phenotyping Strategies, Multivariate Gene-Environment Interactions, and Translational Research
+====================
+12:45 PM - 1:00 PM
+Virtual Round Table with Stephen V. Faraone on the topic of Childhood Onset
+====================
+12:45 PM - 1:00 PM
+Virtual Round Table with Lifetime Achievement Award Winner, Lynn DeLisi
+====================
+12:45 PM - 1:00 PM
+Virtual Round Table with Theodore Reich Young Investigator Award Winner, Michael Gandal
+====================
+1:00 PM - 3:00 PM
+PGC Update: Meaning and Mechanisms, Toward an Explanatory Theory for Polygenicity
+https://youtu.be/0MIU3N1EaQU
+====================
+3:00 PM - 4:00 PM
+Early Career Investigator Lounge: Expand Your Network and Get Career Advice from ISPG Members Lea K. Davis, Jason Stein, and Daniel Mueller!
+====================
+4:15 PM - 4:30 PM
+Virtual Round Table with ISPG Board Member, Sarah Medland on the topic of Imaging Genetics
+====================
+4:30 PM - 5:45 PM
+Oral Session: Biostatistics/Bioinformatics B*
+https://youtu.be/zP6ticTfHmg
+====================
+4:30 PM - 4:45 PM
+Tractor: A Framework Allowing for Improved Inclusion of Admixed Individuals in Large-Scale Association Studies
+====================
+4:45 PM - 5:00 PM
+Machine Learning Predictions Increase GWAS Power and Number of Discovered Genetic Loci Influencing Alcohol Consumption and Problems
+====================
+5:00 PM - 5:15 PM
+Gene Expression Imputation in Human Brain With Spatiotemporal Precision and Cell-Type Specificity and its Implications for 13 Brain-Associated Disorders or Traits
+====================
+5:15 PM - 5:30 PM
+Investigating miRNA Binding Site Variants and Their Contribution to Psychiatric Disorders
+====================
+5:30 PM - 5:45 PM
+A Comprehensive Evaluation of Polygenic Score Methods Across Cohorts in Psychiatric Disorders
+====================
+4:30 PM - 5:45 PM
+Oral Session: Pharmacogenomics*
+https://youtu.be/rlrTV1U5-9I
+====================
+4:30 PM - 4:45 PM
+Polygenic Risk Scores for Body Mass Index and Schizophrenia are Associated With Antipsychotic-Induced Weight Gain in a Sample of Monotherapeutically Treated Schizophrenic Patients
+====================
+4:45 PM - 5:00 PM
+Predicting Smoking Cessation Treatment Outcomes With Genetic Risk Scores and Biomarkers
+====================
+5:00 PM - 5:15 PM
+Polygenic Risk Scores and Response to Antidepressants
+====================
+5:15 PM - 5:30 PM
+Assessing the Genetic Contribution of Drug Response Variability in Selective Serotonin Reuptake Inhibitors From 1,711,695 Purchases in the Finnish National Drug Registry
+====================
+5:30 PM - 5:45 PM
+The Relationship Between Comorbid Chronic Pain and Poorer Self-Reported Antidepressant Efficacy is Partly Mediated by Genetics
+====================
+4:30 PM - 6:00 PM
+Oral Session: ELSI, Counseling & Genetic Testing/Heritability*
+https://youtu.be/bdIWjeTrCxg
+====================
+4:30 PM - 4:45 PM
+Deconstructing the Heritability of Self-Reported Trauma With Genomic Structural Equation Modelling
+====================
+4:45 PM - 5:00 PM
+Identification of Possible Classifiers for Suicide Risk by Machine Learning in Concordant Brain-Blood Differentially Methylated Sites
+====================
+5:00 PM - 5:15 PM
+How Accurate are People When Estimating Heritability of Mental Health Traits and Does it Matter? A Three Country Survey
+====================
+5:15 PM - 5:30 PM
+Estimating the Heritability of Gene Expression in the Human Dorsolateral Prefrontal Cortex
+====================
+5:30 PM - 5:45 PM
+The Use of Online Testing to Assess Cognitive Differences in Healthy Individuals at High Genetic Risk of Alzheimer’s Disease
+====================
+5:45 PM - 6:00 PM
+Genetic and Environmental Influences on Sleep/Wake Behaviours in Adolescent Twins
+====================
+4:30 PM - 6:00 PM
+Oral Session: Depression*
+https://youtu.be/DMqszFV6YoY
+====================
+4:30 PM - 4:45 PM
+Delineating the Genetic Component of Gene Expression in Major Depression
+====================
+4:45 PM - 5:00 PM
+Investigating the Shared Biomarkers between Coronary Artery Disease and Major Depressive Disorder
+====================
+5:00 PM - 5:15 PM
+Having Your Cake and Eating It too: Sample Recruitment for Genetic Studies of Depression
+====================
+5:15 PM - 5:30 PM
+Convergent Findings from Genetic and Functional Studies Implicate a Vital Role of FZD6 in Depressive Symptoms
+====================
+5:30 PM - 5:45 PM
+GWAS of Depression Phenotypes in the Million Veteran Program and Meta-Analysis in More Than 1.2 Million Participants
+====================
+5:45 PM - 6:00 PM
+Polygenetic Risk Analysis of Affective Disorders in a Defined Community Shows Evidence of Polygenic Founder Effects
+====================
+6:00 PM - 7:00 PM
+Virtual Poster Session II (Second Hour)
