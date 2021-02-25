@@ -9,3 +9,4 @@ python3 x2convert.py yt_links/day2_yt_links.txt
 
 
 ### 3. Find the downloaded mp4 vidoes at ./my_mp4
+ls my_mp4
