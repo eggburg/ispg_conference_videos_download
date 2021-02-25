@@ -1,6 +1,6 @@
 # Bulk download ISPG conference videos
 
-### 1. To extract all the videos links from the web page to a text file (using Day 2 as example)
+### 1. To extract all the videos links from the website to a text file (using Day 2 as example)
 ```
 python3 gen_info.py conference_websites/lobby_day2.html xxx@xxxxx.edu my_password > yt_links/day2_yt_links.txt
 ```
