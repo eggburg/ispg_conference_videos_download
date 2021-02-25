@@ -1,4 +1,4 @@
-# Download ISPG conference videos to current folder
+# Download ISPG conference videos to the current folder
 
 ### 1. Extract all the video youtube links from the web page to a text file
 ./gen_info.py "./lobby_day2.html" "xxxx@xxx.edu" "my_password" > day2_yt_links.txt
