@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 # Example:
-# ./gen_info.py conference_websites/lobby_day2.html xxx@xxxxx.edu my_password > yt_links/day2_yt_links.txt
+# python3 gen_info.py conference_websites/lobby_day2.html xxx@xxxxx.edu my_password > yt_links/day2_yt_links.txt
 
 import Driver
 import sys
