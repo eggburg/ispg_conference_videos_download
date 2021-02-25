@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 # Example:
-# python3 scirpt.py ./test_yt_links.txt
+# python3 x2convert.py yt_links/test_yt_links.txt
 
 import Driver
 import sys, time
