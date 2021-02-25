@@ -45,7 +45,8 @@ def download(yt_url):
         if no_audio:
             continue
         td = tr.find_element_by_xpath('.//td[1]')
-        if td.text is None:
+
+        if (td.text is None) or (" (mp4)" not in td.text):
             continue
         cur_rs = int(td.text.split('p')[0])
         if cur_rs > max_rs:
