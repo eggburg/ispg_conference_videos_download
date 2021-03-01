@@ -1,4 +1,9 @@
-# Bulk download ISPG conference videos
+# Overview
+The script extracts the youtube links from the conference pages, and bulk downloads all the videos. 
+
+This tool doesn't use youtube-dl due to its uncertainty life cycle. Instead, the downloading is acheived using the online download service x2convert.com via web scraping scripts.
+
+# Instruction
 
 ### 1. To extract all the videos links from the website to a text file (using Day 2 as example)
 ```
