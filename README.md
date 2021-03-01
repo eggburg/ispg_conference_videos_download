@@ -1,7 +1,7 @@
 # Overview
 The script extracts the youtube links from the conference pages, and bulk downloads all the videos. 
 
-This tool doesn't use youtube-dl due to its uncertainty life cycle. Instead, the downloading is acheived using the online download service x2convert.com via web scraping scripts.
+This tool doesn't use youtube-dl due to its uncertain life cycle. Instead, the downloading is acheived using the online download service x2convert.com via web scraping scripts.
 
 # Instruction
 
